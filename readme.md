@@ -1,5 +1,11 @@
 #tetr.js
 
+original author Simon M. Laroche, released under MIT License at https://github.com/simonlc/tetr.js
+
+My hacks can be found at https://github.com/unclemarc/tetris
+
+My primary driver for this was to figure out how to deploy a web based game on my OpenShift cluster in my home lab. As of December 2017, this is running on Red Hat OCP 3.6, hosted on RHV 4.1
+
 ### Default Controls: (changed by unclemarc Dec 2017, to be more like Mac Plus)
 
 - **Rotate Left:** Z
@@ -34,7 +40,7 @@
 - Preload das preservation during countdown
 - Finesse faults counter.
 
-## Planned future mechanics and features
+## Planned future mechanics and features (as per Simon. I make no promises)
 
 - Mobile design
 - More game modes (ultra, etc)
