@@ -292,12 +292,12 @@ var released;
 
 var binds = {
   pause: 27,
-  moveLeft: 37,
-  moveRight: 39,
+  moveLeft: 74,
+  moveRight: 76,
   moveDown: 40,
   hardDrop: 32,
   holdPiece: 67,
-  rotRight: 88,
+  rotRight: 75,
   rotLeft: 90,
   rot180: 16,
   retry: 82

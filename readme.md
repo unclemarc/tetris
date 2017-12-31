@@ -1,14 +1,14 @@
 #tetr.js
 
-### Default Controls:
+### Default Controls: (changed by unclemarc Dec 2017, to be more like Mac Plus)
 
 - **Rotate Left:** Z
-- **Rotate Right:** X
+- **Rotate Right:** K
 - **Rotate 180:** Shift
 - **Hold:** C
 - **Hard Drop:** Space
-- **Shift Left:** Left Arrow
-- **Shift Right:** Right Arrow
+- **Shift Left:** J
+- **Shift Right:** L
 - **Restart:** R
 
 ## Current mechanics and features
